@@ -1,0 +1,5 @@
+Suv;Geely Emgrand X7;11400;11.4f;true;5
+Suv;Hyundai ix35;18300;12.2f;true;5
+Suv;Subaru Forester;23950;12.9f;true;5
+Minivan;SsangYong Rexton;12100;11.9f;true;7
+Passenger Car;Toyota Camry;19900;10.3f;false;5
