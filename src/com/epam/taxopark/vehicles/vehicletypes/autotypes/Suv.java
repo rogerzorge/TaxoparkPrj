@@ -7,12 +7,10 @@ import com.epam.taxopark.vehicles.vehicletypes.Automobile;
  */
 public class Suv extends Automobile {
 
-    public Suv(String carBrand, int carCost, float fuelConsumption, boolean allWheelsDrive, int passengersNumber) {
-        this.carBrand = carBrand;
-        this.carCost = carCost;
-        this.fuelConsumption = fuelConsumption;
-        this.allWheelsDrive = allWheelsDrive;
-        this.passengersNumber = passengersNumber;
+    public Suv() {}
+
+    public Suv(String carBrand, int carCost, float fuelConsumption, int passengersNumber) {
+        super(carBrand, carCost, fuelConsumption, true, passengersNumber);
     }
 
     @Override

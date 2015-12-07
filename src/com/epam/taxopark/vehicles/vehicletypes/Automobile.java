@@ -7,6 +7,16 @@ import com.epam.taxopark.vehicles.Vehicle;
  */
 public class Automobile extends Vehicle {
 
+    public Automobile() {}
+
+    public Automobile(String carBrand, int carCost, float fuelConsumption, boolean allWheelsDrive, int passengersNumber) {
+        this.carBrand = carBrand;
+        this.carCost = carCost;
+        this.fuelConsumption = fuelConsumption;
+        this.allWheelsDrive = allWheelsDrive;
+        this.passengersNumber = passengersNumber;
+    }
+
     @Override
     public String vehicleInfo() {
         return "Brand: " + this.carBrand + "; Cost: " + this.carCost + "; Fuel consumption: " + this.fuelConsumption +

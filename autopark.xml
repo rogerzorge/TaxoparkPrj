@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopark>
+	<auto id="10001" auto_type="Passenger car">
+		<car_brand>Kia Ceed</car_brand>
+		<car_cost>18750</car_cost>
+		<fuel_consumption>10.2</fuel_consumption>
+		<all_wheel_drive>false</all_wheel_drive>
+		<passengers_number>4</passengers_number>
+	</auto>
+	<auto id="10002" auto_type="Minivan">
+		<car_brand>Nissan NV200</car_brand>
+		<car_cost>27350</car_cost>
+		<fuel_consumption>12.7</fuel_consumption>
+		<all_wheel_drive>false</all_wheel_drive>
+		<passengers_number>7</passengers_number>
+	</auto>
+	<auto id="10003" auto_type="Suv">
+		<car_brand>Mazda CX5</car_brand>
+		<car_cost>21150</car_cost>
+		<fuel_consumption>10.4</fuel_consumption>
+		<all_wheel_drive>true</all_wheel_drive>
+		<passengers_number>4</passengers_number>
+	</auto>
+</autopark>

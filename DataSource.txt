@@ -1,5 +1,31 @@
-Suv;Geely Emgrand X7;11400;11.4f;true;5
-Suv;Hyundai ix35;18300;12.2f;true;5
-Suv;Subaru Forester;23950;12.9f;true;5
+Suv;Geely Emgrand X7;11400;11.4f;5
+Suv;Hyundai ix35;18300;12.2f;5
+Suv;Subaru Forester;23950;12.9f;5
 Minivan;SsangYong Rexton;12100;11.9f;true;7
 Passenger Car;Toyota Camry;19900;10.3f;false;5
+Passenger Car;Audi A1;14600;5.4f;false;4
+Passenger Car;VW Golf;14500;5.9f;false;5
+Passenger Car;Peugeot 308;13900;6.0f;false;5
+Passenger Car;Alfa Romeo Giulietta;14900;6.2f;false;5
+Passenger Car;Toyota Auris;15300;6.3f;false;5
+Passenger Car;Mercedes A Class;21000;7.4f;false;4
+Minivan;Citroen C4 Picasso;16350;8.6f;false;7
+Minivan;VW Touran;18700;9.1f;false;7
+Suv;Scoda Yeti;18300;5.6f;5
+Minivan;Citroen C4 Picasso;16200;8.6f;false;7
+Minivan;Opel Zafira;19200;9.7f;false;7
+Passenger Car;Volvo S80;29300;8.9f;true;5
+Passenger Car;Jaguar XF;43150;12.7f;true;5
+Minivan;Mercedes Vito;39990;13.1f;false;9
+Minivan;Seat Alhambra;27950;12.3f;false;7
+Passenger Car;Mercedes S Class Estate;68900;14.9f;true;5
+Minivan;Ford S Max;23700;9.9f;false;7
+Minivan;Ford Galaxy;24600;10.3f;false;7
+Minivan;VW Sharan;22100;9.6f;false;7
+Minivan;VW Caravelle;28700;11.8f;true;8
+Minivan;Ford Transit;29100;12.6f;false;9
+Suv;VW Tiguan;25900;7.5f;5
+Suv;Ford Kuga;21450;8.9f;5
+Suv;BMW X1;36700;9.8f;5
+Suv;Porsche Macan;78900;12.8f;5
+Suv;Porsche Cayenne;89950;13.9f;5

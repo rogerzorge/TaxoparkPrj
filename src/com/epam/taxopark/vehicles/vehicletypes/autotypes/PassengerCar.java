@@ -7,12 +7,10 @@ import com.epam.taxopark.vehicles.vehicletypes.Automobile;
  */
 public class PassengerCar extends Automobile{
 
-    public PassengerCar(String carBrand, int carCost, float fuelConsumption, boolean allWheelsDrive, int passengersNumber) {
-        this.carBrand = carBrand;
-        this.carCost = carCost;
-        this.fuelConsumption = fuelConsumption;
-        this.allWheelsDrive = allWheelsDrive;
-        this.passengersNumber = passengersNumber;
+    public PassengerCar() {}
+
+    public PassengerCar (String carBrand, int carCost, float fuelConsumption, boolean allWheelsDrive, int passengersNumber) {
+        super(carBrand, carCost, fuelConsumption, allWheelsDrive, passengersNumber);
     }
 
     @Override
